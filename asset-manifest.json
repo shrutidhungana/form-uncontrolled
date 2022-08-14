@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/form-uncontrolled/static/css/main.fe3a55ee.css",
+    "main.js": "/form-uncontrolled/static/js/main.981ac0df.js",
+    "index.html": "/form-uncontrolled/index.html",
+    "main.fe3a55ee.css.map": "/form-uncontrolled/static/css/main.fe3a55ee.css.map",
+    "main.981ac0df.js.map": "/form-uncontrolled/static/js/main.981ac0df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe3a55ee.css",
+    "static/js/main.981ac0df.js"
+  ]
+}
